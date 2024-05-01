@@ -1,2 +1,2 @@
 # acaicopacabana
-PDV localhost 
+SISTEMA COM A VERSÃO DA BALANÇA (ATUALMENTE LOCAL)
