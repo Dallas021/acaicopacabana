@@ -1,2 +1,0 @@
-# acaicopacabana
-PDV localhost 
